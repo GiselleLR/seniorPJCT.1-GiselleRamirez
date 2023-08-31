@@ -7,6 +7,9 @@ if userInput == 'A':
 elif userInput == 'B':
      print("Uh oh! You've reached the end of the road! You and your crew drifted off into endless space, and were never seen again.")
      print("hi")
+
+
+
 else: 
      print("You entered something wrong - refresh and try again!")
  
