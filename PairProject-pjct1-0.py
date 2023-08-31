@@ -5,7 +5,8 @@ if userInput == 'A':
 # Student 1 finishes this code
 
 elif userInput == 'B':
-# Student 2 finishes this code 
+     print("Uh oh! You've reached the end of the road! You and your crew drifted off into endless space, and were never seen again.")
 
 else: 
      print("You entered something wrong - refresh and try again!")
+ 
